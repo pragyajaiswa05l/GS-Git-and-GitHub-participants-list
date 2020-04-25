@@ -1,4 +1,4 @@
-# GS Git and GitHub
+[# GS Git and GitHub
 
 ## Mentors
 
@@ -8,4 +8,4 @@
 
 ## Participants
 
-1. 
+1. [Pragya jaiswal](https://github.com/pragyajaiswa05l)
